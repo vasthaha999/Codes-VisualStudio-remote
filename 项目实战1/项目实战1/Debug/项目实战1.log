@@ -1,0 +1,16 @@
+﻿生成启动时间为 2023/6/30 20:56:55。
+     1>项目“D:\ConsoleApplication1\项目实战1\项目实战1\项目实战1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "项目实战1.cpp"
+         项目实战1.cpp
+     1>d:\consoleapplication1\项目实战1\项目实战1\项目实战1.cpp(8): error C2664: “HWND FindWindowW(LPCWSTR,LPCWSTR)”: 无法将参数 2 从“const char [13]”转换为“LPCWSTR”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>d:\consoleapplication1\项目实战1\项目实战1\项目实战1.cpp(13): error C2664: “HWND FindWindowW(LPCWSTR,LPCWSTR)”: 无法将参数 2 从“const char [13]”转换为“LPCWSTR”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>d:\consoleapplication1\项目实战1\项目实战1\项目实战1.cpp(15): error C2664: “HWND FindWindowW(LPCWSTR,LPCWSTR)”: 无法将参数 2 从“const char [13]”转换为“LPCWSTR”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>已完成生成项目“D:\ConsoleApplication1\项目实战1\项目实战1\项目实战1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.29

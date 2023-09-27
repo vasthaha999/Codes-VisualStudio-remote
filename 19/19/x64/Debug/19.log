@@ -1,0 +1,7 @@
+﻿  19.c
+D:\ConsoleApplication1\19\19\19.c(11,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\ConsoleApplication1\19\19\19.c(11,10): message : 占位符和其参数预计 3 可变参数，但提供的却是 2 参数
+D:\ConsoleApplication1\19\19\19.c(11,10): message : 缺失的可变参数 3 为格式字符串“%c”所需
+D:\ConsoleApplication1\19\19\19.c(11,10): message : 此参数用作缓冲区大小
+D:\ConsoleApplication1\19\19\19.c(13,2): warning C4013: “system”未定义；假设外部返回 int
+  19.vcxproj -> D:\ConsoleApplication1\19\x64\Debug\19.exe
